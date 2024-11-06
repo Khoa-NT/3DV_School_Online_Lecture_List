@@ -1,10 +1,4 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-# 3D Vision School ~ Pre-session (Version for 2025 Winter ❄️)
+# 3D Vision School ~ Pre-session (2025 Winter ❄️)
 
 This material has been compiled for the pre-session of the 3D Vision School.  
 Students who pass the qualification test are required to study it over approximately two weeks before the main program begins.
